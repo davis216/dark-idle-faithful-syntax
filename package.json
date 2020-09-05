@@ -1,5 +1,5 @@
 {
-  "name": "dark-idlef3-syntax",
+  "name": "dark-idle-faithful-syntax",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A short description of your syntax theme",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/dark-idlef3-syntax",
+  "repository": "https://github.com/atom/dark-idle-faithful-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
