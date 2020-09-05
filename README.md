@@ -1,4 +1,4 @@
-# dark-idlef3-syntax theme
+# dark-idle-faithful-syntax theme
 
 A short description of your theme.
 
