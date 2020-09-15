@@ -2,7 +2,7 @@
   "name": "dark-idle-faithful-syntax",
   "author": "davis216",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "An Atom theme for those who liked python's dark IDLE colors",
   "keywords": [
     "syntax",
