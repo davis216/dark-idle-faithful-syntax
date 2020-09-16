@@ -22,22 +22,26 @@
 }
 
 .syntax--keyword {
-  color: @purple;
+  color: @idle-orange;
 
   &.syntax--control {
     color: @idle-orange; // from, import, try except, if else, for
   }
 
   &.syntax--operator {
-    color: @white;
+    color: @idle-orange;
+
+    &.syntax--assignment {
+      color: @white
+    }
   }
 
   &.syntax--other.syntax--special-method {
-    color: @blue;
+    color: @idle-blue;
   }
 
   &.syntax--other.syntax--unit {
-    color: @orange;
+    color: @idle-orange;
   }
 }
 
@@ -178,7 +182,7 @@
 
 .syntax--meta {
   &.syntax--class {
-    color: @yellow;
+    color: @idle-text;
 
     &.syntax--body {
       color: @syntax-text-color;
